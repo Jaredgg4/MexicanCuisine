@@ -105,3 +105,11 @@ a {
     color-scheme: dark;
   }
 }
+
+.desc{
+  width: 1000px;
+  height: 500px;
+  border-style: solid;
+  border-color: aqua;
+  border-width: 5px;
+}

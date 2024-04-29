@@ -7,12 +7,10 @@ import styles from '../styles/Home.module.css';
 import Card2 from '../components/Card2';
 import Card3 from '../components/Card3';
 import pic3 from '../assets/Cochinita.jpeg';
-import Food1 from './Food1/index';
 
 export default function Home() {
   return (
     <main className={styles.main}> 
-    <Food1/>
       
       <div>
         <h1>Cuisine from Mexico</h1>

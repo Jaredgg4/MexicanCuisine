@@ -1,8 +1,9 @@
 import React from 'react';
+import styles from './styles.module.css';
 
 function Food1() {
     return (
-        <div id="Machaca">
+        <div id="Machaca" className={styles.desc}>
         <h2>Machaca</h2>
         <p>Machaca is a traditional meat delicacy from Northern Mexico. Here are some interesting facts about it:</p>
         <ol>

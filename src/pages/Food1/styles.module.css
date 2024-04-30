@@ -1,0 +1,64 @@
+.main {
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+
+.card1{
+  position: relative;
+  top: 50px;
+  left: -500px;
+  margin: auto;
+  border-style: solid;
+  border-color: blanchedalmond;
+  height: auto;
+  width: 320px;
+  align-content: center;
+  text-align: center;
+  border-width: 10px;
+}
+.btn1{
+  position: relative;
+  top: 50px;
+  right: 0px;
+  background-color: aqua;
+}
+
+.card2{
+  position: relative;
+  top: -220px;
+  left: 0px;
+  margin: auto;
+  border-style: solid;
+  border-color: blanchedalmond;
+  height: auto;
+  width: 320px;
+  align-content: center;
+  text-align: center;
+  border-width: 10px;
+}
+
+.card3{
+  position: relative;
+  top: -488px;
+  left: 500px;
+  margin: auto;
+  border-style: solid;
+  border-color: blanchedalmond;
+  height: auto;
+  width: 320px;
+  align-content: center;
+  text-align: center;
+  border-width: 10px;
+}
+
+.desc{
+  width: 177vh;
+  height: 100vh;
+  border-style: solid;
+  border-color: aqua;
+  border-width: 5px;
+  text-align: center;
+}

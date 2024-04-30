@@ -1,6 +1,7 @@
 import styles from '../styles/Home.module.css';
 import Image from "next/image"; // Import next/image
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 type props = {
     src: string;
